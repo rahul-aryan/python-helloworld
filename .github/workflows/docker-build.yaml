@@ -42,7 +42,7 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: pixelpotato/python-helloworld:latest
+          tags: rahularyan007/python-helloworld:latest
 
 
 
